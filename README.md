@@ -1,2 +1,3 @@
-# numerical_methods
-A course on solving systems of linear algebraic equations using the tridiagonal matrix algorithm (Thomas algorithm).
+# Численные методы
+Компьютерный практикум по учебному курсу «ВВЕДЕНИЕ В ЧИСЛЕННЫЕ МЕТОДЫ», ВМК МГУ, 3-й семестр, 2023. 
+Тема работы: **Решение различных СЛАУ методом прогонки**.
